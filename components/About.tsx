@@ -34,12 +34,20 @@ export default function About({}: Props) {
       </motion.div>
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">
-            Here is a {" "}
-            <span className="underline decoration-[#F7AB0A]/50">little</span>{" "}
-            background
+          Here is a{" "}
+          <span className="underline decoration-[#F7AB0A]/50">little</span>{" "}
+          background
         </h4>
         <p className="text-base">
-          I'm a skilled and expierenced Fullstack Engineer with strong background in Next.js | AWS | WordPress | DNS | Linux | Docker | Git | CD/CI | & etc.
+          Hi, I'm a Full Stack Developer with over 3 years of experience in
+          building web and mobile applications. I specialize in using
+          technologies such as AWS, Next.js, WordPress, React, and React Native.
+          My passion lies in creating efficient, scalable, and user-friendly
+          applications. I have a strong background in both front-end and
+          back-end development, which enables me to take a project from concept
+          to completion. I have successfully completed various projects for
+          clients in different industries and I'm always eager to take on new
+          challenges and learn new technologies.
         </p>
       </div>
     </div>
