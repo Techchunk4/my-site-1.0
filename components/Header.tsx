@@ -40,8 +40,6 @@ export default function Header({}: Props) {
           fgColor="gray"
           bgColor="transparent"
         />
-
-       
       </motion.div>
 
       <motion.div
@@ -66,7 +64,7 @@ export default function Header({}: Props) {
           fgColor="gray"
           bgColor="transparent"
         />
-         <SocialIcon
+        <SocialIcon
           url="https://github.com/destinyoo/destinyoo"
           fgColor="gray"
           bgColor="transparent"
