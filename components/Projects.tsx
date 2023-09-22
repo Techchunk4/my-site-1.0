@@ -35,10 +35,21 @@ function Projects({}: Props) {
                 </span>{" "}
                 My Portfolio
               </h4>
+              <p className="text-lg text-center md:text-left">
+                his Next.js app, with TailwindCSS and Framer Motion, offers a
+                seamless, stylish user experience with fluid animations. It
+                utilizes React Hook Form for efficient, user-friendly form
+                management and validations. Additionally, react-social-icons
+                enable quick navigation to social platforms, making the app
+                interconnected and user-centric. The synergy of these
+                technologies results in a modern, efficient, and aesthetically
+                pleasing application.
+              </p>
             </div>
           </div>
         ))}
       </div>
+      <div className="w-full absolute to-[30%] bg-[#F7AB0A]/10 left-0 h-[500px] -skew-y-12"></div>
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { SocialIcon } from "react-social-icons";
-import Link from "next/link";
+
 type Props = {};
 
 export default function Header({}: Props) {
