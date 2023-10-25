@@ -1,10 +1,6 @@
-# Project Name
+# NextJS App
 
-This is a README file for your Next.js project, outlining the tools and libraries used, as well as providing basic information about your project.
-
-## Overview
-
-Briefly describe what your project does and its purpose.
+This is a README file for your Next.js project, outlining the tools and libraries used, as well as providing basic information about your 
 
 ## Table of Contents
 
@@ -72,7 +68,6 @@ List the key features of your project, highlighting what makes it unique or usef
 - Feature 5: Add typewriter-like text animations with React Type Writer.
 - (Add any other features)
 
-## Screenshots
 
 If applicable, include screenshots or images that showcase your project in action. 
 
