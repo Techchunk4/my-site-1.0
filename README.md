@@ -69,13 +69,8 @@ List the key features of your project, highlighting what makes it unique or usef
 - (Add any other features)
 
 
-If applicable, include screenshots or images that showcase your project in action. 
 
-## Contributing
-
-Explain how others can contribute to your project, whether it's through bug reports, feature requests, or code contributions.
-
-## License
+## Licence
 
 Specify the license under which your project is distributed. For example, you can use the MIT License:
 
@@ -83,4 +78,3 @@ Specify the license under which your project is distributed. For example, you ca
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
 
-Feel free to customize this README file to suit your project's specific needs and provide as much detail as necessary for others to understand and contribute to your Next.js project.
