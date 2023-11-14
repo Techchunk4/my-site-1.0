@@ -29,6 +29,8 @@
     "typescript": "5.2.2"
   },
   "devDependencies": {
+    "serverless": "^3.35.2",
+    "serverless-next.js": "^1.15.0-alpha.2",
     "tailwind-scrollbar": "^3.0.5"
   }
 }

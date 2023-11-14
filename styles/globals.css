@@ -12,4 +12,8 @@
         text-gray-500 placeholder-gray-500 transition-all focus:border-[#F7AB0A]/40
         focus:text-[#F7AB0A]/40 hover:border-[#F7AB0A]/40
         }
+        @media (max-width: 768px) {
+            /* Styles for smaller screens (e.g., phones) */
+          }
+          
 }
