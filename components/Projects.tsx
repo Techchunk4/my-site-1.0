@@ -49,7 +49,7 @@ function Projects({}: Props) {
               viewport={{ once: true }}
               src={project.imageUrl} // Use the image URL from the project object
               alt="portfolio"
-              className="w-[60%] h-[50%]"
+              className="w-[75%] h-[65%]"
             />
             {/* Other project details rendering */}
           </div>
