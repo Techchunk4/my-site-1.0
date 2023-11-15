@@ -42,7 +42,7 @@ export default function About({}: Props) {
           background
         </h4>
         <p className="text-base">
-          👨‍💻 About Me: Tech Enthusiast & Developer Hey, I'm [Your Name]! 🚀 I'm
+          👨‍💻 About Me: Tech Enthusiast & Developer Hey, I'm Abdelkader! 🚀 I'm
           passionate about tech and specialize in MERN, WordPress, and AWS.
           Here's a glimpse into my journey: 🌐 Tech Explorer: I love diving into
           the latest tech trends, always eager to embrace innovations. 💻 MERN &
