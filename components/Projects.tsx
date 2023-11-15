@@ -1,30 +1,32 @@
+// Projects.tsx
 import React from "react";
 import { motion } from "framer-motion";
-
-type Props = {};
-
-function Projects({}: Props) {
+import LinkButton from './LinkButton'; // Correct import path for LinkButton
+const Projects: React.FC = () => {
   const projects = [
     {
       id: 1,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/dirac.svg",
-      
-     
+      linkUrl: "https://diractime.com",
+      buttonText: "Visit Diractime"
     },
     {
       id: 2,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/goal.svg",
-    
+      linkUrl: "https://www.aijourney.co.uk",
+      buttonText: "Visit Aijourney"
     },
     {
       id: 3,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/perport.svg",
-    
+      linkUrl: "https://www.example3.com",
+      buttonText: "Visit Wolkenhost"
     },
     {
       id: 4,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/cicd.svg",
-     
+      linkUrl: "https://www.example4.com",
+      buttonText: "Visit Amplify"
     },
   ];
 
@@ -51,7 +53,7 @@ function Projects({}: Props) {
               alt="portfolio"
               className="w-[75%] h-[65%]"
             />
-            {/* Other project details rendering */}
+            <LinkButton url={project.linkUrl} text={project.buttonText} />
           </div>
         ))}
       </div>

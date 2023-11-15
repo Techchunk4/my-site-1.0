@@ -1,13 +1,13 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import Skill from './Skill'
-import Skill1 from './Skill1'
-import Skill2 from './Skill2'
-import Skill3 from './Skill3'
-import Skill4 from './Skill4'
-import Skill5 from './Skill5'
-import Skill6 from './Skill6'
-import Skill7 from './Skill7'
+import Skill from './skill/Skill'
+import Skill1 from './skill/Skill1'
+import Skill2 from './skill/Skill2'
+import Skill3 from './skill/Skill3'
+import Skill4 from './skill/Skill4'
+import Skill5 from './skill/Skill5'
+import Skill6 from './skill/Skill6'
+import Skill7 from './skill/Skill7'
 
 type Props = {}
 
