@@ -11,25 +11,25 @@ const Projects: React.FC = () => {
       id: 1,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/devops-1.png",
       linkUrl: "https://diractime.com",
-      buttonText: "Visit Diractime"
+      buttonText: "View Diractime"
     },
     {
       id: 2,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/goal.svg",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/side-projects.png",
       linkUrl: "https://www.aijourney.co.uk",
-      buttonText: "Visit Aijourney"
+      buttonText: "View Aijourney"
     },
     {
       id: 3,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-amplify.png",
       linkUrl: "https://www.example3.com",
-      buttonText: "Visit Wolkenhost"
+      buttonText: "View Wolkenhost"
     },
     {
       id: 4,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/alk-project.png",
       linkUrl: "https://alkcourier.com/",
-      buttonText: "Visit Amplify-project on request only"
+      buttonText: "View Amplify-project on request only"
     },
   ];
 
