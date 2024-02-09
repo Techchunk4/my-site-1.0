@@ -9,7 +9,7 @@ const Projects: React.FC = () => {
   const projects = [
     {
       id: 1,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/devops.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/devops-1.png",
       linkUrl: "https://diractime.com",
       buttonText: "Visit Diractime"
     },
