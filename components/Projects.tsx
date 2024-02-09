@@ -21,14 +21,14 @@ const Projects: React.FC = () => {
     },
     {
       id: 3,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/perport.svg",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-amplify.png",
       linkUrl: "https://www.example3.com",
       buttonText: "Visit Wolkenhost"
     },
     {
       id: 4,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/cicd.svg",
-      linkUrl: "https://wolkenhost.com",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/alk-project.png",
+      linkUrl: "https://alkcourier.com/",
       buttonText: "Visit Amplify-project on request only"
     },
   ];
