@@ -29,7 +29,7 @@ const Projects: React.FC = () => {
       id: 4,
       imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/alk-project.png",
       linkUrl: "https://alkcourier.com/",
-      buttonText: "View Amplify-project on request only"
+      buttonText: "View Alkcourier"
     },
   ];
 
