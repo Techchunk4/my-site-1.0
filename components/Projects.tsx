@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     },
     {
       id: 2,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/side-projects.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-project.png",
       linkUrl: "https://www.aijourney.co.uk",
       buttonText: "View Aijourney"
     },
