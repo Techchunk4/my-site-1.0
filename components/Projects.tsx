@@ -15,13 +15,13 @@ const Projects: React.FC = () => {
     },
     {
       id: 2,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-project.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/client-project.png",
       linkUrl: "https://www.aijourney.co.uk",
       buttonText: "View Aijourney"
     },
     {
       id: 3,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-amplify.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-project.png",
       linkUrl: "https://www.example3.com",
       buttonText: "View Wolkenhost"
     },
