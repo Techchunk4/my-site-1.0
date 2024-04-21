@@ -12,7 +12,6 @@
     "@aws-amplify/ui-react": "^5.3.1",
     "@heroicons/react": "^2.0.18",
     "@types/node": "20.6.2",
-    "@types/react": "18.2.21",
     "@types/react-dom": "^18.2.7",
     "autoprefixer": "10.4.15",
     "aws-amplify": "^5.3.11",
@@ -30,6 +29,7 @@
     "typescript": "5.2.2"
   },
   "devDependencies": {
+    "@types/react": "^18.2.79",
     "serverless": "^3.35.2",
     "serverless-next.js": "^1.15.0-alpha.2",
     "tailwind-scrollbar": "^3.0.5"
