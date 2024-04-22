@@ -9,25 +9,25 @@ const Projects: React.FC = () => {
   const projects = [
     {
       id: 1,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/devops-1.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/nextjs.png",
       linkUrl: "https://diractime.com",
       buttonText: "View Diractime"
     },
     {
       id: 2,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/client-project.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws.png",
       linkUrl: "https://www.aijourney.co.uk",
       buttonText: "View Aijourney"
     },
     {
       id: 3,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/aws-project.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/webdev.png",
       linkUrl: "https://www.example3.com",
       buttonText: "View Wolkenhost"
     },
     {
       id: 4,
-      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/wordpress.png",
+      imageUrl: "https://mybucketimagesnew.s3.amazonaws.com/sg.png",
       linkUrl: "https://alkcourier.com/",
       buttonText: "View Alkcourier"
     },
